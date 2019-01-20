@@ -6,9 +6,9 @@ int main(){
 	
 	while(cin >> a){
 	if (a % 4 == 0 && a % 100 != 0 || a % 400 == 0){
-		cout << "¶|¦~" << endl;
+		cout << "é–å¹´" << endl;
 	} else{
-		cout << "¥­¦~" << endl; 
+		cout << "å¹³å¹´" << endl; 
 	}
 	}
 	return 0;
