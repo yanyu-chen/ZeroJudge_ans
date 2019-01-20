@@ -7,11 +7,11 @@ int main(){
 	cin >> D;
 	
 	if((M*2+D) % 3 == 0){
-		cout << "´¶³q" << endl;
+		cout << "æ™®é€š" << endl;
 	} else if ( (M*2+D) %3 == 1){
-		cout << "¦N" << endl;
+		cout << "å‰" << endl;
 	} else{
-		cout << "¤j¦N" << endl; 
+		cout << "å¤§å‰" << endl; 
 	}
 	return 0;	
 }
