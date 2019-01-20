@@ -11,11 +11,11 @@ int main(){
 			}
 		}
 		if (n < sum){
-			cout << "¬Õ¼Æ" << endl; 
+			cout << "ç›ˆæ•¸" << endl; 
 		} else if (n == sum){
-			cout << "§¹¥ş¼Æ" << endl; 
+			cout << "å®Œå…¨æ•¸" << endl; 
 		} else{
-			cout << "Á«¼Æ" << endl; 
+			cout << "è™§æ•¸" << endl; 
 		}
 	}
 	return 0;
