@@ -10,7 +10,7 @@ int main(){
 		} else{
 			unsigned long int count5 = 0;
 			for (int j = 1; pow(5, j) <= n; j++){
-					count5 += n/pow(5, j);
+				count5 += n/pow(5, j);
 			}
 			cout << count5 << endl;
 		}
