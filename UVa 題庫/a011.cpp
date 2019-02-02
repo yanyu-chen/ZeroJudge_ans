@@ -24,7 +24,6 @@ int main(){
 			} else if (start && i == str.length()-1){
 				count++;
 			}
-			//cout << str[i] << " " << count << " " << start << " " << end << endl;
 		}
 		cout << count << endl;
 	}
