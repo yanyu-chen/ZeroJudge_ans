@@ -1,6 +1,6 @@
 # ZeroJudge
 The C++ code for some problems in ZeroJudge 高中生程式解題系統 (https://zerojudge.tw).
-I sort these cpp files as the same as their categories in ZeroJudge:
+I sort the cpp files as the same as their categories in ZeroJudge:
 
 <ul><li>基礎題庫 (cover most)</li>
 <li>競賽題庫 (not yet)</li>
