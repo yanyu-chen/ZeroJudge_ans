@@ -1,6 +1,7 @@
-# ZeroJudge_sol
-The C++ code solutions of ZeroJudge 高中生程式解題系統 (https://zerojudge.tw) written by myself.
-I sort these cpp files as same as their categories of ZeroJudge which are listed as followings.
+# ZeroJudge
+The C++ code for some problems in ZeroJudge 高中生程式解題系統 (https://zerojudge.tw).
+I sort these cpp files as the same as their categories in ZeroJudge:
+
 <ul><li>基礎題庫 (cover most)</li>
 <li>競賽題庫 (not yet)</li>
 <li>IOI 及 APCS (only a few now)</li>
